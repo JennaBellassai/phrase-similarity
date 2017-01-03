@@ -1,5 +1,8 @@
 A library for scoring the similarity of two phrases using AvMax cosine similarity from a Word2Vec model.
 
+***NOTE***
+In order to use this library, you will need the large files “vectors” and “vectors.syn0.py” from the Word2Vec Google News model available [here]: https://github.com/mmihaltz/word2vec-GoogleNews-vectors.
+
 example.py - simple demo of avmaxsim scoring
 similarity_score.py - file containing functions to load the Word2Vec model and score two phrases
 vectors - Word2Vec distributed word vectors derived from GoogleNews corpora
