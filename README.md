@@ -1,3 +1,5 @@
+#Phrase Similarity
+
 A library for scoring the similarity of two phrases using AvMax cosine similarity from a Word2Vec model.
 
 ***NOTE***
